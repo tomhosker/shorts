@@ -1,0 +1,6 @@
+a add b
+THIS LINE IS SUPPOSED TO BE NONSENSE
+b add 7
+print a
+a add £3
+print a;
